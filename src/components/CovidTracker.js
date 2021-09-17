@@ -25,7 +25,7 @@ setData(actualData.statewise[0]);
                     <div className="card_inner">
                         <p className="card_name"><span>OUR</span> COUNTRY</p>
                         <p className="card_total card_small"> 🧡🤍💚</p>
-                        <p >INDIA</p>
+                        <p className="card_total card_small">INDIA</p>
                     </div>
                 </div>
    
